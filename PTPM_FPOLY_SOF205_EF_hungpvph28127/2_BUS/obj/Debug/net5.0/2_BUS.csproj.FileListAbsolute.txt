@@ -1,0 +1,15 @@
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\bin\Debug\net5.0\2_BUS.deps.json
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\bin\Debug\net5.0\2_BUS.dll
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\bin\Debug\net5.0\2_BUS.pdb
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\bin\Debug\net5.0\1_DAL.dll
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\bin\Debug\net5.0\1_DAL.pdb
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.csproj.AssemblyReference.cache
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfoInputs.cache
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfo.cs
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CopyComplete
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.dll
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\refint\2_BUS.dll
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\2_BUS.pdb
+C:\Users\vanhu\OneDrive\Máy tính\My\PTPM_FPOLY_SOF205_EF_hungpvph28127\2_BUS\obj\Debug\net5.0\ref\2_BUS.dll
