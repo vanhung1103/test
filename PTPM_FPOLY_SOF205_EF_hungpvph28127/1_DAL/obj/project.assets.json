@@ -6047,11 +6047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\1_DAL.csproj",
+      "projectUniqueName": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\test\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\1_DAL.csproj",
       "projectName": "1_DAL",
-      "projectPath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\1_DAL.csproj",
+      "projectPath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\test\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\1_DAL.csproj",
       "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\obj\\",
+      "outputPath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\test\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

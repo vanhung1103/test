@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gMHHULX0wD4WDmJCOfkWKs7AEuJZjekyS1VK3hJ8Rub+Q7/CxT8/MSM7nSmaJqIS1KLAojJVKVQlK5uOc8sjZQ==",
+  "dgSpecHash": "z88WL3J5MvtsMvET1DfV4LqFxtokXmXA2RAv9R0nz4zRFuo+tpXVCG8hIRd/drrLaTXmN0XsgYsan5Mjy6/DCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\3_PL\\3_PL.csproj",
+  "projectFilePath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\test\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\3_PL\\3_PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanhu\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512",
     "C:\\Users\\vanhu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

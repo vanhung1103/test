@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OUoH8mSWuTNwcEBp2/Izcc2FFIKYrhzOOm7PCPekF0ricD68QfEEWbSlIgFUhXopP/1A3Nt61S/FoRaRGoMXtw==",
+  "dgSpecHash": "ZpEfG8IqhDBy79mBz+QqJpHq7tBwewLrzdJte5hlTUtzpxOo1o4U4L2tkmup3j2ji6dhnv/DmDvQwo1+EferLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\2_BUS\\2_BUS.csproj",
+  "projectFilePath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\test\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\2_BUS\\2_BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanhu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vanhu\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

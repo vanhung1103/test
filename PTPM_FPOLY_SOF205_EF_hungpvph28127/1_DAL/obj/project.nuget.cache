@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EhfCpG8ppwuiN5WTVcdSw3IOLZ8NacgvnC0tJ1ZwMTkAsa4kg40N3ViccEn/cPN6aN635vqzPYQyk3D4b933JQ==",
+  "dgSpecHash": "0anX+/PPWOZdeCWR5hKB3+k+Yo7UdbdxZD5c0UY2QRSZ5kjS1mOe+ZDWV0yHCkspkIBI/I7sN78V9cjeOtJK2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\1_DAL.csproj",
+  "projectFilePath": "C:\\Users\\vanhu\\OneDrive\\Máy tính\\My\\test\\PTPM_FPOLY_SOF205_EF_hungpvph28127\\1_DAL\\1_DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanhu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vanhu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
